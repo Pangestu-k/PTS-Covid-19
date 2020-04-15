@@ -1,0 +1,5 @@
+langkah-langkah dalam menggunakan projek :
+1.buat database dengan nama corona
+2.import file sql yg telah disediakan
+3.buka Xampp nyalakan apache dan mysql
+4.buka browser
